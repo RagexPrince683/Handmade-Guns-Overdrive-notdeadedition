@@ -12,3 +12,7 @@ And we are not responsible for any problems arising from redistribution by you.
 
 # Installing the mod
 Download "HMGEX-14.5" and put it into the mods folder. Then download "handmadeguns_Packs" and put it into your main minecraft directory (where your saves,config,and mods folder is stored)
+
+
+# Use on servers:
+Using this mod on servers requires the vecmath file provided on curseforge. You can find that file [here](https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252frepo1.maven.org%252fmaven2%252fjavax%252fvecmath%252fvecmath%252f1.5.2%252fvecmath-1.5.2.jar)
